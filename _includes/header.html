@@ -1,33 +1,62 @@
-{% if site.style == 'dark' %}
-  {% assign icon_color = "#ffffff" %}
-{% else %}
-  {% assign icon_color = "#24292e" %}
-{% endif %}
+<header class="site-header">
 
-{% assign content = page.content %}
+    <div class="wrapper" style="padding-bottom:100px">
 
-{% assign posts_total = site.posts | size %}
+        <nav class="navbar" style="position:fixed;">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                        <i class="fa fa-bars"></i>
+                    </button>
+                    <a class="navbar-brand" href="/"><p>{{ site.title }}</p></a>
+                </div>
+                <div class="collapse navbar-collapse" id="myNavbar">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a href="/"><i class="fa fa-home"></i>Home</a></li>
+                        <li><a href="/experience"><i class="fa fa-file-text"></i> Experience</a></li>
+                        <li class="dropdown">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="/projects"><i class="fa fa-wrench"></i> Projects
+                                <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="/projects/robotics">Robotics</a></li>
+                                <li><a href="/projects/mechanical">Mechanical</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="/about"><i class="fa fa-info-circle"></i> About</a></li>
+                        <li><a href="/resume"><i class="fa fa-download"></i> Resume</a></li>
+                    </ul>
+                </div>
+            </div>
 
-{% assign user = site.github.owner %}
+            <!--highlights active page in navbar -->
+            <script>
+             $(function(){
+                 function stripTrailingSlash(str) {
+                     if(str.substr(-1) == '/') {
+                         return str.substr(0, str.length - 1);
+                     }
+                     return str;
+                 }
 
-{% if page.path contains '_posts' %}
-  {% assign page_title = page.title %}
-  {% assign meta_description = page.content | strip_html | strip_newlines | xml_escape | truncate: 300 %}
-{% else %}
-  {% assign page_title = user.name %}
-  {% assign meta_description = user.bio | strip_html | strip_newlines | xml_escape | truncate: 300 %}
-{% endif %}
+                 var url = window.location.pathname;
+                 var activePage = stripTrailingSlash(url);
 
-<!doctype html>
-<html class="min-height-full">
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page_title }}</title>
-    <meta name="description" content="{{ meta_description }}" />
-    <meta property="og:title" content="{{ user.name }}" />
-    <meta property="og:image" content="{{ user.avatar_url }}" />
-    <meta property="og:description" content="{{ meta_description }}" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link href="{{ "/assets/styles.css" | relative_url }}" rel="stylesheet" type="text/css">
-  </head>
-  <body class="bg-white min-height-full" {% if site.style == 'dark' %}style="background-color: #2f363d !important"{% endif %}>
+                 $('.nav li a').each(function(){
+                     var currentPage = stripTrailingSlash($(this).attr('href'));
+
+                     if (activePage == currentPage) {
+                         $(this).parent().addClass('active');
+                         //code to highlight top level active page for dropdowns
+                         $('.active').closest('li.dropdown').addClass('active');
+                     }
+                 });
+             });
+            </script>
+
+
+            <hr style="margin-bottom:0px !important; margin-top:0px !important; " />
+        </nav>
+
+  </div>
+
+</header>

@@ -1,55 +1,33 @@
-layout: sidebar
-style: light
 
-plugins:
-  - jekyll-octicons
-  - jekyll-github-metadata
-  - jemoji
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
 
-permalink: /:year/:month/:day/:title/
+# Site settings
+title: Alan Papalia
+description: This is the personal website of Alan Papalia.
+social:
+    links:
+      - https://www.linkedin.com/in/alan-papalia-06883b105/
+      - https://github.com/alanpapalia
+google_site_verification: cymXx0S6wZsbhwYGKIY2WmjjeG5ppagjIRKrSv4m_sk
+baseurl: "" # the subpath of your site, e.g. /blog
+# Build settings
+markdown: kramdown
+highlighter: rouge
 
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-      type: "posts"
-    values:
-      layout: "post"
+sass:
+  # loading path from site root
+  # default to _sass
+  # sass_dir: bower_components
 
-projects:
-  sort_by: pushed
-  # sort_by options:
-  #   - pushed
-  #   - stars
-  limit: 9
-  exclude:
-    archived: false
-    forks: true
-    projects:
-    # - repo-name
+  # style : nested (default), compact, compressed, expanded
+  #         :nested, :compact, :compressed, :expanded also works
+  # see http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  # on a typical twitter bootstrap stats are :
+  # nested 138,7kB, compact 129,1kB, expanded 135,9 kB, compressed 122,4 kB
+  # style: compressed
 
-social_media:
-  # behance: your_username
-  # dribbble: your_username
-  # facebook: your_username
-  # hackerrank: your_username
-  # instagram: your_username
-  # keybase: your_username
-  linkedin: alan-papalia-06883b105
-  # mastodon: your_username
-  # medium: your_username
-  # stackoverflow: your_user_id
-  # telegram: your_username
-  # twitter: your_username
-  # unsplash: your_username
-  # vk: your_username
-  # website: http://your_website_url
-  # youtube: your_username
-
-topics:
-  - name: Robotics
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
-
-  - name: Mechanical Design
-
+gems:
+  - jekyll-seo-tag

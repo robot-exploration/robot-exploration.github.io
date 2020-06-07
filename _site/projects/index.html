@@ -1,84 +1,193 @@
+<!DOCTYPE html>
+<html>
 
-
-
-
-
-
-
-
-
-
-<!doctype html>
-<html class="min-height-full">
   <head>
-    <meta charset="utf-8">
-    <title>Alan Papalia</title>
-    <meta name="description" content="Robots!" />
-    <meta property="og:title" content="Alan Papalia" />
-    <meta property="og:image" content="https://avatars2.githubusercontent.com/u/17442843?v=4" />
-    <meta property="og:description" content="Robots!" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link href="/assets/styles.css" rel="stylesheet" type="text/css">
+   <script src="/bower_components/jquery/dist/jquery.min.js"></script>
+ <script src="/bower_components/bootstrap-sass/assets/javascripts/bootstrap.min.js"></script>
+ <script src="/bower_components/masonry/dist/masonry.pkgd.min.js"></script> 
+ <script src="/bower_components/imagesloaded/imagesloaded.pkgd.min.js"></script> 
+ <script type="text/javascript" src="/js/custom.js"></script>
+ <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+ <meta charset="utf-8">
+ <meta http-equiv="X-UA-Compatible" content="IE=edge">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <link rel="stylesheet" href="/css/main.css">
+ <!-- UNCOMMENT THIS LINE TO ALLOW RSS SUBSCRIPTIONS <link rel="alternate" type="application/rss+xml" title="Alan Papalia" href="http://localhost:4000/feed.xml">  -->
+ <link href='http://fonts.googleapis.com/css?family=Arvo' rel='stylesheet' type='text/css'>
+ <link href='http://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+
+  <!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Projects | Alan Papalia</title>
+<meta name="generator" content="Jekyll v3.8.7" />
+<meta property="og:title" content="Projects" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="This is the personal website of Alan Papalia." />
+<meta property="og:description" content="This is the personal website of Alan Papalia." />
+<link rel="canonical" href="http://localhost:4000/projects/" />
+<meta property="og:url" content="http://localhost:4000/projects/" />
+<meta property="og:site_name" content="Alan Papalia" />
+<meta name="google-site-verification" content="cymXx0S6wZsbhwYGKIY2WmjjeG5ppagjIRKrSv4m_sk" />
+<script type="application/ld+json">
+{"@type":"WebPage","url":"http://localhost:4000/projects/","headline":"Projects","description":"This is the personal website of Alan Papalia.","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
   </head>
-  <body class="bg-white min-height-full" >
+
+  <body>
+
+    <header class="site-header">
+
+    <div class="wrapper" style="padding-bottom:100px">
+
+        <nav class="navbar" style="position:fixed;">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                        <i class="fa fa-bars"></i>
+                    </button>
+                    <a class="navbar-brand" href="/"><p>Alan Papalia</p></a>
+                </div>
+                <div class="collapse navbar-collapse" id="myNavbar">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a href="/"><i class="fa fa-home"></i>Home</a></li>
+                        <li><a href="/experience"><i class="fa fa-file-text"></i> Experience</a></li>
+                        <li class="dropdown">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="/projects"><i class="fa fa-wrench"></i> Projects
+                                <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="/projects/robotics">Robotics</a></li>
+                                <li><a href="/projects/mechanical">Mechanical</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="/about"><i class="fa fa-info-circle"></i> About</a></li>
+                        <li><a href="/resume"><i class="fa fa-download"></i> Resume</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <!--highlights active page in navbar -->
+            <script>
+             $(function(){
+                 function stripTrailingSlash(str) {
+                     if(str.substr(-1) == '/') {
+                         return str.substr(0, str.length - 1);
+                     }
+                     return str;
+                 }
+
+                 var url = window.location.pathname;
+                 var activePage = stripTrailingSlash(url);
+
+                 $('.nav li a').each(function(){
+                     var currentPage = stripTrailingSlash($(this).attr('href'));
+
+                     if (activePage == currentPage) {
+                         $(this).parent().addClass('active');
+                         //code to highlight top level active page for dropdowns
+                         $('.active').closest('li.dropdown').addClass('active');
+                     }
+                 });
+             });
+            </script>
 
 
+            <hr style="margin-bottom:0px !important; margin-top:0px !important; " />
+        </nav>
 
-  <div class="d-md-flex min-height-full border-md-bottom">
-    <div class="flex-self-stretch border-md-right border-gray-light bg-white col-md-5 col-lg-4 col-xl-3 px-4 px-md-6 px-lg-7 py-6">
-      
-
-<img src="https://avatars2.githubusercontent.com/u/17442843?v=4" class="circle mb-3" style="max-width: 150px;">
-<h1 class=" mb-2 lh-condensed">Alan Papalia</h1>
-<p class="mb-3 f4 text-gray">
-  Robots!
-</p>
-
-
-  <div class="f4 mb-6">
-    
-      <div class="d-flex flex-items-center mb-3">
-        <svg height="20" class="octicon octicon-mark-github mr-2 v-align-middle" fill="#24292e" aria-label="GitHub" viewBox="0 0 16 16" version="1.1" width="20" role="img"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
-        <a href="https://github.com/alanpapalia" >
-          @alanpapalia
-        </a>
-      </div>
-    
-    
-    
-    
-      <div class="d-flex flex-wrap flex-items-start ">
-        
-          <div class=" mb-3">
-            
-            
-            <a href="https://www.linkedin.com/in/alan-papalia-06883b105" class="tooltipped tooltipped-se" aria-label="LinkedIn: alan-papalia-06883b105">
-              <svg height="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19 18"><path d="M3.94 2A2 2 0 1 1 2 0a2 2 0 0 1 1.94 2zM4 5.48H0V18h4zm6.32 0H6.34V18h3.94v-6.57c0-3.66 4.77-4 4.77 0V18H19v-7.93c0-6.17-7.06-5.94-8.72-2.91z" fill="#959da5"/></svg><span class="d-none">LinkedIn</span>
-            </a>
-          </div>
-        
-      </div>
-    
-    
   </div>
 
+</header>
 
-    </div>
 
-    <div class="col-md-7 col-lg-8 col-xl-9 px-4 py-6 px-lg-7 border-top border-md-top-0 bg-gray-light" >
-      <div class="mx-auto" style="max-width: 900px;">
-        <div class="f4  mb-6">
-          <div class="f4 ">
-            <p class="f5"><a href="http://localhost:4000/" class="d-flex flex-items-center "><svg height="16" class="octicon octicon-chevron-left mr-2 v-align-middle" fill="#24292e" aria-label="Home" viewBox="0 0 8 16" version="1.1" width="8" role="img"><path fill-rule="evenodd" d="M5.5 3L7 4.5 3.25 8 7 11.5 5.5 13l-5-5 5-5z"></path></svg>Home</a></p>
-            <h1 class="f00-light lh-condensed mb-5"></h1>
-            
-          </div>
+      <div class="page-content">
+          <div class="wrapper">
+              <div class="container">
+		<div class="jumbotron">
+
+			  <h1>Projects</h1> <br> <br>
+				<p>
+            Here's brief overview of some of what I've worked on. Feel free to use the dropdown above to explore as well.
+				</p> <br>
+
+
+			  <h2>Robotics</h2> <br> <br>
+				<p>
+            My work in robotics focuses on algorithmic aspects. I've worked in planning, localization, and computer vision to develop systems in both real-life and simulated environments.
+				</p> <br>
+        <div style="overflow:hidden; width:100%">
+            <div style="border-style:none; border-color:black; align-content:center; width:40%; float:left">
+
+                <figure style="position:absolute; left:15%">
+                    <img src="/img/grasp.png" style="max-height:300px; max-width:100%;">
+                    <figcaption style=""> Object Pose Estimation for Robotic Grasping </figcaption>
+                </figure>
+            </div>
+            <div style="border-style:none; border-color:black; width:40%; float:right">
+                <figure>
+                    <img src="/img/miqcp.png" style="max-height:300px; max-width:100%;">
+                    <figcaption style="padding:3px; text-align:center"> Mixed-Integer Programming for Trajectory Planning </figcaption>
+                </figure>
+            </div>
+            <div style="clear:both;"></div>
         </div>
+        <div style="clear:both;"></div>
+
+			  <h2>Mechanical</h2> <br> <br>
+				<p>
+            Although my primary interest is in robotics, I've also worked in more traditional mechanical engineering, with much of my work centering around design, manufacturing, and validation of a <a href="https://www.sae.org/attend/student-events"> Formula SAE </a> racecar.
+				</p> <br> <br>
+
+        <div style="overflow:hidden; width:100%">
+            <div style="border-style:none; border-color:black; width:40%; float:left">
+                <video class="video" id="backgroundvideo" style="max-height:300px; max-width:100%" autoplay muted>
+                    <source src="/img/fsae_racing.webm" type='video/webm; codecs="vp8, vorbis"' />
+                    <source src="/img/fsae_racing.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
+                </video>
+				        <p style="text-align:center;">
+                    Our car in competition
+				        </p>
+            </div>
+            <div style="border-style:none; border-color:black; width:40%; float:right">
+                <figure>
+                    <img src="/img/materialtesting.png" style="max-height:300px; max-width:100%;">
+                    <figcaption style="padding:3px; text-align:center"> Material testing for composite structures </figcaption>
+                </figure>
+            </div>
+            <div style="clear:both;"></div>
+        </div>
+
+		</div>
+</div>
+
+          </div>
       </div>
+
+   <footer class="footer">
+	  <div>
+	      <!-- <hr style="margin-bottom:5px !important; margin-top:0px !important; " /> -->
+	      <div class="container" style="padding-top:10px">
+
+    	      <a href="https://github.com/alanpapalia" target="_blank" style="padding:30px">
+                <i class="fa fa-github fa-lg"></i>
+    	      </a>
+
+    	      <a href="//www.linkedin.com/in/alan-papalia-06883b105" target="_blank" style="padding:30px">
+                <i class="fa fa-linkedin fa-lg"></i>
+    	      </a>
+
+            <a href="mailto:alanpapalia@gmail.com" target="_blank" style="padding:30px">
+                <i class="fa fa-envelope fa-lg"></i>
+    	      </a>
+
+
+        </div>
     </div>
-  </div>
+
+
+
+</footer>
 
 
   </body>
-</html>
 
+</html>
