@@ -10,6 +10,12 @@ body {
   background: black;
   color: black; }
 
+/* Panels on experience page */
+/* .projects{ */
+/*     max-height:200px; */
+/*     max-width:200px; */
+/*     max-width:100%; */
+/* } */
 /* Global Fonts */
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Arvo', Georgia, Times, serif; }

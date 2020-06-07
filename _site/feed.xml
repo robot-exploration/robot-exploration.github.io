@@ -5,8 +5,8 @@
     <description>This is the personal website of Alan Papalia.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 07 Jun 2020 14:27:16 -0400</pubDate>
-    <lastBuildDate>Sun, 07 Jun 2020 14:27:16 -0400</lastBuildDate>
+    <pubDate>Sun, 07 Jun 2020 16:35:27 -0400</pubDate>
+    <lastBuildDate>Sun, 07 Jun 2020 16:35:27 -0400</lastBuildDate>
     <generator>Jekyll v3.8.7</generator>
     
       <item>
