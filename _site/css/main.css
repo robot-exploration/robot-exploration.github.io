@@ -8,9 +8,9 @@ body {
 /* Panels on experience page */
 .panel-default {
   background: black;
-  color: black; }
+  color: black;
+  margin: 10px; }
 
-/* Panels on experience page */
 .projects {
   background: #fff;
   border-radius: 15px; }
