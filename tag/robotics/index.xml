@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robotics | Alan Papalia</title>
+    <link>https://alanpapalia.github.io/tag/robotics/</link>
+      <atom:link href="https://alanpapalia.github.io/tag/robotics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robotics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 30 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alanpapalia.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Robotics</title>
+      <link>https://alanpapalia.github.io/tag/robotics/</link>
+    </image>
+    
+    <item>
+      <title>6-DOF Object Tracking</title>
+      <link>https://alanpapalia.github.io/project/object-tracking/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://alanpapalia.github.io/project/object-tracking/</guid>
+      <description>&lt;p&gt;This project was part of a few months I spent at the &lt;a
+href=&#34;https://robotics.oregonstate.edu/&#34;&gt; Collaborative Robotics and Intelligent
+Systems Institute&lt;/a&gt; of Oregon State University. I was part of an NSF Research
+Experience for Undergrads, and my goal was to develop an automated system for
+tracking an object.&lt;/p&gt;
+&lt;p&gt;The larger goal was to build an entire testbed which researchers could remotely
+access and test robotic grasping algorithms on. My part of the project would
+allow for quantitative statistics on the grasping experiments.&lt;/p&gt;
+&lt;p&gt;To approach the problem I developed a Python library that was capable of
+interfacing with Intel RGB-D cameras and recording several image streams in
+parallel. To then perform object tracking several state-of-the-art pose
+estimation techniques were implemented and compared. The comparison showed
+improved reliability and performance under occlusion for a &lt;a
+href=&#34;https://labicvl.github.io/docs/pubs/Aly_ECCV_2014.pdf&#34;&gt; Latent-Class Hough
+Forest framework&lt;/a&gt; developed at the Imperial College London.&lt;/p&gt;
+&lt;p&gt;During a grasping experiment the data capture was set to be automated by the
+RGB-D cameras and the images were then post-processed by the chosen framework.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mixed-Integer Model Predictive Control</title>
+      <link>https://alanpapalia.github.io/project/mixed-integer-control/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://alanpapalia.github.io/project/mixed-integer-control/</guid>
+      <description>&lt;p&gt;As part of MIT&amp;rsquo;s course 16.413 I worked on a team to derive a model-predictive controller for a simulated quadrotor in a non-convex planning space. I used &lt;a href=&#34;https://scip.zib.de/&#34;&gt; SCIP&lt;/a&gt;, an open-source optimization software in conjunction with simplified quadrotor dynamics model to perform the path-planning subject to obstacle avoidance constraints.&lt;/p&gt;
+&lt;p&gt;Because objects could be placed arbitrarily within the environment, the planning problem was inherently non-convex. For this reason the problem was modeled as a mixed-integer problem.&lt;/p&gt;
+&lt;p&gt;In &lt;a href=&#34;https://github.com/alanpapalia/miqcp-planning&#34;&gt; this repo&lt;/a&gt; all of our work is shown in a Jupyter Notebook, along with a brief explanation of some relevant topics in optimization and a derivation of the quadrotor dynamics.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
