@@ -1,26 +1,32 @@
-# alanpapalia.github.io 
+<p align="center"><a href="https://wowchemy.com" target="_blank" rel="noopener"><img src="https://wowchemy.com/img/logo_200px.png" alt="Wowchemy Website Builder"></a></p>
 
-> Thanks to Shreyas Sudhakar for the original framework of this website [shreyassudhakar.com](http://shreyassudhakar.com/)
+# Academic Template for [Hugo](https://github.com/gohugoio/hugo)
 
-## About
+The Hugo **Academic Resumé Template** empowers you to create your job-winning online resumé and showcase your academic publications.
 
-The page is built using the [Jekyll](http://jekyllrb.com/) templating system, combined with the [Bootstrap](http://getbootstrap.com/) framework ([SASS branch](https://github.com/twbs/bootstrap-sass)), [FontAwesome](http://fortawesome.github.io/Font-Awesome/) and [Masonry](https://github.com/desandro/masonry).
+[Check out the latest demo](https://academic-demo.netlify.app) of what you'll get in less than 10 minutes, or [view the showcase](https://wowchemy.com/user-stories/).
 
-## Build Instructions
+[**Wowchemy**](https://wowchemy.com) makes it easy to create a beautiful website for free. Edit your site in Markdown, Jupyter, or RStudio (via Blogdown), generate it with Hugo, and deploy with GitHub or Netlify. Customize anything on your site with widgets, themes, and language packs.
 
-### Ruby 
-Ruby and the Ruby DevKit can be installed using the instructions [here](http://jekyll-windows.juthilo.com/1-ruby-and-devkit/). 
-### Jekyll
-Jekyll can be configured with the Github Pages dependencies. This will allow building and serving the website locally to preview exactly how it will be seen once hosted on Github Pages.
-First, install bundler using the command 'gem install bundler'
-My Gemfile contains the appropriate dev dependencies. Simply navigate to the cloned repository and run 'bundle install'
+- 👉 [**Get Started**](https://wowchemy.com/docs/install/)
+- 📚 [View the **documentation**](https://wowchemy.com/docs/)
+- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
+- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
+- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-modules/issues)
+- ⬆️ **Updating Wowchemy?** View the [Update Guide](https://wowchemy.com/docs/update/) and [Release Notes](https://wowchemy.com/updates/)
 
-Now, simply run 'bundle exec jeykll serve --watch' in the root of the repository, and visit http://localhost:4000 in your browser to see the page. The watch tag means that the page will regenerate automatically as changes to the source are made.
+## Crowd-funded open-source software
 
-## Staying Updated
-Run 'bundle update' from the root of the repository to keep Jekyll and it's dependencies up to date.
+To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
 
-Bootstrap, Masonry, imagesLoaded and Font Awesome were configured using bower. However, the bower files are not included in the .gitignore file since they are normal dependencies required for the website to function.
-[Node.js](https://nodejs.org/en/) (specifically npm, which is included with the Node installation) is required to use bower. Once Node and npm are installed, use the command 'npm install -g bower' to install Bower on your system.
-Bootstrap can be updated with the 'bower update bootstrap-sass' command, Masonry can be updated with 'bower update masonry', imagesLoaded can be updated with 'bower update imagesLoaded', and Font Awesome can be updated with the 'bower update font-awesome' command. However, when these packages are updated, keep in mind that other code may need to be updated to support changes in the bootstrap framework.
+### [❤️ Click here to unlock rewards with sponsorship](https://wowchemy.com/plans/)
 
+## Ecosystem
+
+* **[Wowchemy Admin](https://github.com/wowchemy/wowchemy-admin/):** An admin tool to import publications from BibTeX
+
+[![Screenshot](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png)](https://wowchemy.com)
+
+<!--
+[![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/academic-kickstart/readme?pixel)](https://github.com/igrigorik/ga-beacon)
+-->
