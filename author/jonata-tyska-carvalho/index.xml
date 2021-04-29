@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jonata Tyska Carvalho | Alan Papalia</title>
+    <link>https://alanpapalia.github.io/author/jonata-tyska-carvalho/</link>
+      <atom:link href="https://alanpapalia.github.io/author/jonata-tyska-carvalho/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jonata Tyska Carvalho</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alanpapalia.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Jonata Tyska Carvalho</title>
+      <link>https://alanpapalia.github.io/author/jonata-tyska-carvalho/</link>
+    </image>
+    
+    <item>
+      <title>Inter-Mobile-Device Distance Estimation using Network Localization Algorithms for Digital Contact Logging Applications</title>
+      <link>https://alanpapalia.github.io/publication/contact-tracing/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://alanpapalia.github.io/publication/contact-tracing/</guid>
+      <description>&lt;p&gt;Most modern day phones are equipped with hardware that allows for Bluetooth
+Low-Energy (BLE) communication with other phones. This can also be used to get a
+rough distance between two phones, something which many teams have tried to use
+to get contact tracing information. However, this approach has proven
+challenging, with the measurements being highly noisy and there being a good
+chance of two phones not having a measurement despite being within sensing range
+of each other.&lt;/p&gt;
+&lt;p&gt;To try to combat these challenges, the contact tracing problem can be considered
+a sensor network localization problem. This is a long-studied class of
+algorithms which attempt to localize members of a network using only pairwise
+distance measurements between network members. Modeling contact tracing as a
+network localization problem serves two distinct benefits. First, this allows
+for multiple measurements to be used to try to estimate the distance between
+phones, combatting the effects of noisy data. Secondly, this allows for the
+distance between two phones to be estimated even if there is no corresponding
+distance measurement between these two devices.&lt;/p&gt;
+&lt;p&gt;In this collaboration I worked with &lt;a
+href=&#34;https://sites.google.com/usc.edu/lillyclark&#34;&gt;Lilly Clark &lt;/a&gt; to test out
+a number of sensor network localization approaches for contact tracing. See our
+results and read more about it &lt;a href=&#34;https://arxiv.org/abs/2007.10162&#34;&gt;
+here&lt;/a&gt;!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
