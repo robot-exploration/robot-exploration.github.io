@@ -2,7 +2,7 @@
 layout: post
 title: Hello World
 date: 2023-03-26 18:55:00
-description: New website, same Alan
+description: New website!
 tags: formatting code
 categories: sample-posts
 ---
