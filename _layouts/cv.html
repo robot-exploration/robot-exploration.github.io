@@ -9,7 +9,14 @@ layout: default
             <p class="post-description">{{ page.description }}</p>
           </header>
 
-          <article>
+          <!-- embed the .pdf in this page -->
+          {% if page.cv_pdf %}
+            <div class="embed-responsive embed-responsive-16by9">
+              <iframe class="embed-responsive-item" src="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}" frameborder="0" allowfullscreen></iframe>
+            </div>
+          {% endif %}
+
+          <!-- <article>
             <div class="cv">
               {% for entry in site.data.cv %}
                 <div class="card mt-3 p-3">
@@ -30,6 +37,6 @@ layout: default
                 </div>
               {% endfor %}
               </div>
-          </article>
+          </article> -->
 
         </div>
