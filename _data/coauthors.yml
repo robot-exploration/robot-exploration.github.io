@@ -10,3 +10,6 @@
   - firstname: ["John", "John J."]
     url: https://meche.mit.edu/people/faculty/JLEONARD@MIT.EDU
 
+"How":
+  - firstname: ["Jon", "Jon P.", "Jonathan", "Jonathan P."]
+    url: https://www.mit.edu/~jhow/
