@@ -14,10 +14,7 @@ nav_order: 1
 {%- assign current_year = "now" | date: "%Y" -%}
 {%- for y in page.years -%}
   <h2 class="year">{{y}}</h2>
-  <details>
-  <summary ></summary>
     {% bibliography -f papers -q @*[year={{y}}]* %}
-  </details>
 {% endfor %}
 
 </div>
