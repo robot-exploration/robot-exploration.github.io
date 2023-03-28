@@ -17,20 +17,28 @@ social: true  # includes social icons at the bottom of the page
 I am a PhD student in Robotics with the Massachusetts Institute of Technology
 and the Woods Hole Oceanographic Institute <a href="https://mit.whoi.edu/">
 Joint Program</a>. I'm fortunate to work in the <a
-href="http://marinerobotics.mit.edu"> Marine Robotics Group</a>, under <a
-href="https://meche.mit.edu/people/faculty/JLEONARD@MIT.EDU"> Prof. John
+href="http://marinerobotics.mit.edu"> Marine Robotics Group</a>, with <a
+href="https://meche.mit.edu/people/faculty/JLEONARD@MIT.EDU"> John
 Leonard</a>.
 
-My research seeks to leverages graph theory, probability, and geometry to build
-novel optimization approaches for robotic localization and mapping. The
-overarching goal of this research is to develop robust and reliable perception
-systems for robotics.
+My research focuses on the development of algorithms which enable widespread
+deployment of autonomous systems for low-cost, long-term environmental
+monitoring. Largely, I want to develop systems that advance scientific
+understanding of our world by improving the capable spatial and temporal
+resolution of our observations. Though I develop domain-agnostic methodologies,
+I am largely inspired by applications in marine environments. Climate change,
+ocean acidification, and the health of our oceans are all topics that I am
+passionate about. I believe that the development of autonomous systems will
+enable us to better understand and protect our oceans and planet more broadly.
 
-Before working in robotics I spent my undergraduate years working with a great
-group of people on the <a href="https://motorsports.illinois.edu/"> Illini
-Motorsports Formula SAE </a> team. Here I oversaw a team of over 40 members,
-engaged in a number of mechanical design projects, and took part in a number of
+My work typically exists at the intersection of probabilistic inference,
+mathematical optimization, and convex geometry. Largely, I focus on building
+more robust algorithms with provable performance guarantees. These algorithmic
+advances enable improved navigational capabilities, allowing for lower cost
+sensors and generally expanding the performance envelope of existing systems.
+
+Before grad school, I spent my undergraduate years working with a great group of
+people on the <a href="https://motorsports.illinois.edu/"> Illini Motorsports
+Formula SAE </a> team. Here I oversaw a team of over 40 members, led system
+design as well as design of several key components, and took part in a number of
 international competitions.
-
-Helping to mitigate climate change is of huge importance to me and is a central
-aspect to my future plans.
