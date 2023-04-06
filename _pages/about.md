@@ -26,10 +26,10 @@ deployment of autonomous systems for low-cost, long-term environmental
 monitoring. Largely, I want to develop systems that advance scientific
 understanding of our world by improving the capable spatial and temporal
 resolution of our observations. Though I develop domain-agnostic methodologies,
-I am largely inspired by applications in marine environments. Climate change,
-ocean acidification, and the health of our oceans are all topics that I am
+I am largely inspired by applications in marine environments. Climate, oceans,
+and the health of our planet are all topics that I am
 passionate about. I believe that the development of autonomous systems will
-enable us to better understand and protect our oceans and planet more broadly.
+enable us to better understand and protect our world and its ecosystems.
 
 My work typically exists at the intersection of probabilistic inference,
 mathematical optimization, and convex geometry. Largely, I focus on building
@@ -41,4 +41,5 @@ Before grad school, I spent my undergraduate years working with a great group of
 people on the <a href="https://motorsports.illinois.edu/"> Illini Motorsports
 Formula SAE </a> team. Here I oversaw a team of over 40 members, led system
 design as well as design of several key components, and took part in a number of
-international competitions.
+international competitions. While I don't practice it as often anymore, the mechanical 
+design skills I developed in FSAE remain core pieces of my identity.
