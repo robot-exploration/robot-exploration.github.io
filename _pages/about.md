@@ -6,7 +6,8 @@ subtitle: <a href='https://marinerobotics.mit.edu/'>MIT CSAIL</a> / <a href='htt
 
 profile:
   align: right
-  image: prof_pic.jpg
+  # image: prof_pic.jpg
+  image: river_pavilion.jpg
   image_circular: true # crops the image to make it circular
 
 news: false  # includes a list of news items
@@ -32,7 +33,7 @@ passionate about. I believe that the development of autonomous systems will
 enable us to better understand and protect our world and its ecosystems.
 
 My work typically exists at the intersection of probabilistic inference,
-mathematical optimization, and convex geometry. Largely, I focus on building
+mathematical optimization, and geometry. Largely, I focus on building
 more robust algorithms with provable performance guarantees. These algorithmic
 advances enable improved navigational capabilities, allowing for lower cost
 sensors and generally expanding the performance envelope of existing systems.
@@ -41,5 +42,4 @@ Before grad school, I spent my undergraduate years working with a great group of
 people on the <a href="https://motorsports.illinois.edu/"> Illini Motorsports
 Formula SAE </a> team. Here I oversaw a team of over 40 members, led system
 design as well as design of several key components, and took part in a number of
-international competitions. While I don't practice it as often anymore, the mechanical 
-design skills I developed in FSAE remain core pieces of my identity.
+international competitions.
