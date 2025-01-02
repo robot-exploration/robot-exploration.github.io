@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 # subtitle: <a href='https://marinerobotics.mit.edu/'>MIT CSAIL</a> / <a href='https://www.whoi.edu/'>WHOI</a>
 subtitle: <strong>Postdoc @ Northeastern <br> Incoming Faculty @ University of Michigan </strong>
@@ -21,7 +21,7 @@ Professor in the <a href="https://name.umich.edu/">NAME</a> department in
 January 2026. If you're interested in working with me, please see the
 information below.</p>
 
-## a bit about me
+## A bit about me
 
 I am a postdoctoral researcher at Northeastern University, working with
 <!-- Hanu Singh and Michael Everett -->
@@ -53,7 +53,7 @@ faster than existing methods and provides rigorous performance guarantees. This 
 a picture of future work I am interested in: solving fundamental robotics problems
 that are motivated by important societal challenges.
 
-## want to work with me?
+## Want to work with me?
 
 I am not admitting students for the upcoming academic year (2025-2026). If you
 are interested in working with me starting in Fall of 2026, feel free to reach
