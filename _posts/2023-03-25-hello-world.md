@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Hello World
-date: 2023-03-26 18:55:00
-description: New website!
-tags: formatting code
-categories: sample-posts
+title: Everything starts somewhere
+date: January 2, 2025
+description: The starting post
+tags: random
+categories: misc
 ---
 
-I've transitioned my personal website over to this
-<a href="https://github.com/alshedivat/al-folio"> al-folio Jekyll template</a>.
-It was incredibly easy to update, test, and expand. I'm looking forward to
-sharing a scattered collection of thoughts and posts on here!
+I have a few different ideas for thoughts I want to share (okay, I have too many ideas).
+They range from relatively technical math posts to more philosophical discussion on research,
+robotics, and what we're doing on this small blue dot. If you have anything you'd like to
+see, please let me know!

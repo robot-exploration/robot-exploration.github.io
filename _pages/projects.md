@@ -3,7 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 description: A partial collection of some things I've done
-nav: true
+nav: false
 nav_order: 2
 display_categories: [FSAE, coursework, robotics]
 horizontal: false

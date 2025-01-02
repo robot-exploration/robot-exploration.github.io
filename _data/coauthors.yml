@@ -1,15 +1,27 @@
 "Doherty":
-  - firstname: ["Kevin J.", "Kevin"]
+  - firstname: ["Kevin J.", "Kevin", "Kevin J"]
     url: http://people.csail.mit.edu/kdoherty/
 
 "Rosen":
-  - firstname: ["David", "David M."]
+  - firstname: ["David", "David M.", "David M"]
     url: https://david-m-rosen.github.io/
 
 "Leonard":
-  - firstname: ["John", "John J."]
+  - firstname: ["John", "John J.", "John J"]
     url: https://meche.mit.edu/people/faculty/JLEONARD@MIT.EDU
 
 "How":
-  - firstname: ["Jon", "Jon P.", "Jonathan", "Jonathan P."]
+  - firstname: ["Jon", "Jon P.", "Jonathan", "Jonathan P.", "Jonathan P", "Jon P"]
     url: https://www.mit.edu/~jhow/
+
+"Englot":
+  - firstname: ["Brendan"]
+    url: https://www.stevens.edu/profile/benglot
+
+"Huang":
+  - firstname: ["Qiangqiang"]
+    url: https://qq-huang.github.io/
+
+"Tian":
+  - firstname: ["Yulun"]
+    url: https://www.tianyulun.com/
