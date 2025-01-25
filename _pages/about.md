@@ -59,30 +59,31 @@ I am not admitting students for the upcoming academic year (2025-2026). If you
 are interested in working with me starting in Fall of 2026, feel free to reach
 out to me now and we may be able to discuss potential fit.
 
-Excellence comes from a wide range of past experiences; there is no single path
-that I expect, and I strongly encourage applications from people of all backgrounds
-and identities.  Most important to me is an intrinsic motivation for self-growth
-and a drive to work on important and challenging problems.  Ideally, you should
-have at least one core strength (e.g.  mathematical problem solving,
-programming, robotics experience, deep learning research) and be excited to
-develop additional strengths over the course of your PhD. Additionally, it is helpful
-to have prior programming experience and some technical project or work experience
-outside of the classroom (e.g. research, internships, work, projects).
+Excellence comes from a wide range of past experiences. There is no single path
+that I expect students to come from, and I strongly encourage applications from
+people of all backgrounds and identities. I believe the most important
+characteristics for success are intrinsic motivation and a drive to work on
+important and challenging problems.  Ideally, you should have at least one core
+strength (e.g.  mathematical problem solving, programming, robotics experience,
+deep learning research) and be excited to develop additional strengths over the
+course of your PhD. It is helpful to have prior programming experience and some
+technical project or work experience outside of the classroom (e.g. research,
+internships, work, projects).
 
 A short (and very incomplete) list of topics that I am excited about includes:
 - **Long-term autonomy in challenging environments** -- developing
   algorithms that allow robots to operate independently for long periods of time
   in difficult conditions.
 - **Field robotics** -- developing systems that can operate in challenging and
-  remote environments, such as the ocean, forests, deserts, and polar regions.
+  remote environments, with a particular focus on underwater systems.
 - **Adaptive sampling and exploration** -- developing algorithms that allow robots
   to make intelligent decisions about where to go and what to measure in order
-  to maximize the information gained.
+  to maximize the information gained (with a focus on environmental monitoring).
 - **Merging machine learning and model-based robotic systems** -- finding
   effective ways to combine data-driven and model-based approaches to leverage
   the strengths of both.
 - **Algorithms with provable performance guarantees** -- building systems
   that are robust to noise, uncertainty, outliers, and other practical challenges.
 - **Learned sensor models** -- developing algorithms that can learn the
-  characteristics of sensors and use this information to improve the quality of
-  data collected.
+  characteristics of sensors and use this information to improve the performance
+  of robotic systems.
