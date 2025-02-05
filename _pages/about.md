@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 <p style="color:blue;">I am joining the University of Michigan as an Assistant
-Professor in the <a href="https://name.umich.edu/">NAME</a> department in
+Professor in the <a href="https://name.engin.umich.edu/">NAME</a> department in
 January 2026. If you're interested in working with me, please see the
 information below.</p>
 
