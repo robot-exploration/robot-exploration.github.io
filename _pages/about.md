@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 # subtitle: <a href='https://marinerobotics.mit.edu/'>MIT CSAIL</a> / <a href='https://www.whoi.edu/'>WHOI</a>
-subtitle: <strong>Postdoc @ Northeastern <br> Incoming Faculty @ University of Michigan </strong>
+subtitle: <strong> Robotics | Ocean | Climate <br> Postdoc @ Northeastern <br> Incoming Faculty @ University of Michigan </strong>
 
 profile:
   align: right
