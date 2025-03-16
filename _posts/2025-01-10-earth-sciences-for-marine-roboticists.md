@@ -41,3 +41,29 @@ This underlies it's success; the program was **science-driven** and the floats
 were designed to best meet the needs of the scientific community. I believe this
 is how the next
 
+<!-- % (ECMWF makes ERA, gold standard weather forecasting)
+% Remote sensing -> ARGO -> WOCE -> Moorings (like OOI) -> smaller initiatives
+
+% \finishme{Something that we would like -- as marine roboticists -- is a roadmap
+%     of what sensing modalities are currently used by earth scientists and where the
+%     gaps may be. Is this is a separate paper/blog post?}
+
+% Data collection strategies can loosely be thought of as trading-off spatial and
+% temporal resolution, consistency, and coverage across both space and time, as
+% well as costs (both labor and price) to develop and deploy. Measurements across
+% sensor modalities (biological, physical, chemical, etc.) or following
+% Langrangian or Eulerian approaches can be fused to help resolve issues that any
+% individual modality or approach may suffer. We can thus plot various platforms
+% across these axes to build a broad sense of current robotic approaches to ocean
+% data collection:
+
+% \begin{itemize}
+%     \item Remote sensing, largely via satellites and sometime high altitude aircraft
+%     \item Argo Floats / bioArgo
+%     \item Ship-board sensing and the WOCE Atlas
+%     \item Regional moorings, profilers, and recurring deployments of gliders, and recently saildrones
+%     \item Autonomous Underwater Vehicles and Remotely-Operated Vehicles
+%     \item robotics for aquaculture management \cite{evjemo2024biologytechnologyinteractionstudy} \cite{botta2024frameworkrobustlocalizationuuvs} \cite{10566210} \cite{amundsen2024aquaculturefieldroboticsapplications}
+%     \item path planning for extreme events \cite{BLANCHARD2022110242}
+% \end{itemize} -->
+
