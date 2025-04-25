@@ -8,7 +8,7 @@ categories: research skills
 show: false
 ---
 
-**Disclaimer**: this is a person opinion as of today. I still have a lot to see and
+**Disclaimer**: this is a personal opinion as of today. I still have a lot to see and
 my views are more than likely to evolve over time. If anyone has different opinions or
 any thoughts on this, I would love to hear them!
 
