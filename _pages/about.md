@@ -16,11 +16,15 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<p style="color:blue;">I am joining the University of Michigan as an Assistant
-Professor in the <a href="https://name.engin.umich.edu/">NAME</a> department in
-January 2026. If you're interested in developing robots that can operate
-independently in unstructured and remote environments, please see the
-information below on working with me.</p>
+<span style="color:red;"> I am actively recruiting PhD students for the upcoming year </span>
+
+<p style="color:blue;">
+I am joining the University of Michigan as an Assistant Professor in the <a
+href="https://name.engin.umich.edu/">NAME</a> department.  If you're interested
+in developing robots that can operate independently in unstructured and remote
+environments, please see the information below on working with me and then email
+me.
+</p>
 
 ## A bit about me
 
