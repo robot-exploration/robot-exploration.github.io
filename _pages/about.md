@@ -39,9 +39,7 @@ I received my PhD in 2024 from the Massachusetts Institute of Technology
 and the Woods Hole Oceanographic Institution <a href="https://mit.whoi.edu/">
 Joint Program</a>, where I worked with a tremendous group of people in the
 <a href="http://marinerobotics.mit.edu">Marine Robotics Group</a> under the
-supervision of John Leonard. During my graduate studies I was lucky to be chosen
-as a MathWorks Fellow, a Woods Hole Next Wave Fellow, and an Undersea Technology
-Innovation Scholar.
+supervision of John Leonard.
 
 **My research** develops fundamental capabilities for field
 robotics, with a focus on building the tools necessary for autonomous ocean
@@ -60,50 +58,20 @@ faster than existing methods and provides rigorous performance guarantees. This
 paints a picture of future work I am interested in: solving fundamental robotics
 problems that are motivated by important societal challenges.
 
+### Honors and Awards
+
+- 2024 Transactions on Robotics King-Sun Fu Best Paper Award
+- MathWorks Fellow
+- Woods Hole Next Wave Fellow
+- Undersea Technology Innovation Scholar
+
+
 ## Want to work with me?
 
-If you are interested in working with me, read the information below and then
-reach out with a short email outlining your background and interests. I am
-looking for students who are excited to advance the state of the art in
-robotics and to tackle difficult fundamental problems in localization, state
-estimation, and autonomous monitoring of the environment.
-
-Excellence comes from a wide range of past experiences. There is no single path
-that I expect students to come from, and I strongly encourage applications from
-all people.  I believe the most important characteristics for success are
-intrinsic motivation, a drive to work on important and challenging problems, and
-an ability to push through when things aren't working.  Ideally, you should have
-at least one core strength (e.g.  mathematical problem solving, programming,
-robotics experience, deep learning research) and be excited to develop
-additional strengths over the course of your PhD. It is helpful to have prior
-programming experience and some technical project or work experience outside of
-the classroom (e.g. research, internships, work, projects).
-
-A short (and incomplete) list of topics that I am excited about includes:
-- **Localization and navigation (SLAM)** -- specifically, I am interested in
-  long-term, low-cost navigation. We want to build smarter robotic systems that
-  intelligently fuse information from a combination of sensors in ways that are
-  more robust and reliable than existing systems.
-- **Long-term autonomy in challenging environments** -- developing
-  algorithms that allow robots to operate independently for long periods of time
-  in difficult conditions.
-- **Field robotics** -- developing systems that can operate in challenging and
-  remote environments, with a particular focus on underwater systems.
-- **Adaptive sampling and exploration** -- developing algorithms that allow robots
-  to make intelligent decisions about where to go and what to measure in order
-  to maximize the information gained (with a focus on environmental monitoring).
-- **Merging machine learning and model-based robotic systems** -- finding
-  effective ways to combine data-driven and model-based approaches to leverage
-  the strengths of both.
-- **Algorithms with provable performance guarantees** -- building systems
-  that are robust to noise, uncertainty, outliers, and other practical challenges.
-- **Learned sensor models** -- developing algorithms that can learn the
-  characteristics of sensors and use this information to improve the performance
-  of robotic systems.
-
-The common thread in all of these topics is that advances in these directions
-will lead to serious improvements in what robots can do in the wild, allowing
-for people to apply robotics to solve important problems in the world. My
-underlying motivation is developing robots that allow us to better understand
-the natural world, but the technologies we work on are fundamental tools in robotics
-and are relevant anytime we want to deploy robots in the real world.
+<!-- redirect to /join/ -->
+See the information on my
+<a href="/join/">Join Us</a> page for how to reach out if you are interested in working with me.
+I welcome inquiries from prospective PhD students, postdoctoral researchers, and
+University of Michigan undergraduate students. I may not be hiring now, but
+will keep your email for future reference when I am looking to hire for a
+position so please do not hesitate to reach out.
