@@ -13,14 +13,13 @@ nav_order: 1
 
 See below for how to reach out if you are interested in working with me. I
 welcome inquiries from prospective PhD students, postdoctoral researchers, and
-University of Michigan undergraduate students. I may not be hiring now, but
-will keep your email for future reference when I am looking to hire for a
-position so please do not hesitate to reach out.
+University of Michigan undergraduate students.
 
 To make sure I see your email, please make the subject line of your
-email should follow the format "\[Important\] Prospective \<Position\>".
+email should follow the format
+`"[Important] Prospective UMich <Position>"`.
 For example, if you are a prospective PhD student, the subject line should be
-"[Important] Prospective PhD Student".
+`"[Important] Prospective UMich PhD Student"`.
 
 Send your email to: apapalia [at ] umich [dot ] edu
 
@@ -28,19 +27,12 @@ Send your email to: apapalia [at ] umich [dot ] edu
 
 If you are interested in applying to PhDs, read the information below and then
 reach out with a short email with your CV and a brief paragraph on what you are
-interested in working on.
+interested in working on and why this interests you (any relevant experience is
+useful to highlight).
 
 I am looking for students who are excited to advance the state of the art in
 robotics and to tackle difficult fundamental problems in localization, state
 estimation, and autonomous monitoring of the environment.
-
-Excellence comes from a wide range of past experiences. There is no single path
-that I expect students to come from, and I strongly encourage applications from
-all people.  I believe the most important characteristics for success are
-intrinsic motivation, a drive to work on important and challenging problems, and
-an ability to push through when things aren't working.  It is helpful to have
-prior programming experience and some technical experience outside of the
-classroom (e.g., research, internships, work, projects).
 
 A short (and incomplete) list of topics that I am excited about includes:
 - **Localization and navigation (SLAM)** -- specifically, I am interested in
@@ -81,13 +73,6 @@ research* in the coming summer.
 - Your resume
 - Your (unofficial) transcript
 - Two short paragraphs explaining why you want to get involved
-
-<!-- **Ideal applicants have**:
-- Prior experience in technical projects (through internships, jobs, or personal work)
-- A GPA of 3.8 or above
-- Strong performance in technical courses
-- Availability of 15+ hours/week during the academic year -->
-<!-- - Solid programming skills (Python/C++) and comfort with mathematical thinking (linear algebra, probability, optimization) -->
 
 ## Postdoctoral Researchers
 
