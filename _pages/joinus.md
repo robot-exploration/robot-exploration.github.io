@@ -31,9 +31,11 @@ interested in working on and why this interests you (any relevant experience is
 useful to highlight).
 
 I am looking for students who are excited to advance the state of the art in
-robotics and to tackle difficult fundamental problems in localization, state
-estimation, and autonomous monitoring of the environment.
+robotics and to tackle difficult fundamental problems in localization,
+perception, state estimation, and autonomous exploration and environmental
+monitoring of the environment.
 
+<!--
 A short (and incomplete) list of topics that I am excited about includes:
 - **Localization and navigation (SLAM)** -- specifically, I am interested in
   long-term, low-cost navigation. We want to build smarter robotic systems that
@@ -61,7 +63,7 @@ will lead to serious improvements in what robots can do in the wild, allowing
 for people to apply robotics to solve important problems in the world. My
 underlying motivation is developing robots that allow us to better understand
 the natural world, but the technologies we work on are fundamental tools in robotics
-and are relevant anytime we want to deploy robots in the real world.
+and are relevant anytime we want to deploy robots in the real world. -->
 
 ## Current University of Michigan Undergraduates
 
