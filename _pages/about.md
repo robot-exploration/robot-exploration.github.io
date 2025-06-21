@@ -36,7 +36,7 @@ href="https://mit.whoi.edu/"> Joint Program</a>, where I was lucky to work with
 
 **My research** develops algorithms and systems that enable robots to
 explore and monitor challenging environments, with a particular focus on
-underwater environments. Basically, we work on the tools that will allow
+underwater environments. We work on the tools that will allow
 future robots to autonomously study and understand the natural world.
 
 <!-- My PhD research focused on enabling long-term, low-cost underwater navigation (a
@@ -48,7 +48,7 @@ faster than existing methods and provides rigorous performance guarantees. This
 paints a picture of future work I am interested in: solving fundamental robotics
 problems that are motivated by important societal challenges. -->
 
-### Honors and Awards
+### Honors and awards
 
 - 2025 Robotics: Science and Systems Pioneer
 - 2024 Transactions on Robotics King-Sun Fu Best Paper Award
