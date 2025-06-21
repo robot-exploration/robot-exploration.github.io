@@ -55,3 +55,11 @@ problems that are motivated by important societal challenges. -->
 - MathWorks Fellow
 - Woods Hole Next Wave Fellow
 - Undersea Technology Innovation Scholar
+
+### Roadmap for Climate Robotics
+
+If you're interested in the future of robotics and how it can help us
+understand, mitigate, and adapt to climate change, check out this
+paper I was lucky to lead with a group of amazing colleagues!
+
+<a href="https://www.climate-robotics.org/">Roadmap for Climate-Relevant Robotics Research</a>.
