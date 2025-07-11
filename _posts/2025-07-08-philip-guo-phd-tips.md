@@ -3,8 +3,8 @@ layout: post
 title: Philip Guo's Tips for PhD Students
 date: July 8, 2025
 description: Words from Philip Guo on how to succeed in a PhD program.
-tags: research
-categories: research-skills
+tags: research-advice
+categories: research-advice
 show: true
 ---
 

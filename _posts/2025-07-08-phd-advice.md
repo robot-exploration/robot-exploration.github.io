@@ -3,8 +3,8 @@ layout: post
 title: Advice for PhD students
 date: July 8, 2025
 description: A collection of advice for PhD students.
-tags: research
-categories: research skills
+tags: research-advice
+categories: research-advice
 show: true
 ---
 

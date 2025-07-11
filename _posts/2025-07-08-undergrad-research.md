@@ -3,8 +3,8 @@ layout: post
 title: My Undergrad Research Philosophy
 date: July 8, 2025
 description: My beliefs on the points of undergrad research and what I expect from students.
-tags: research
-categories: research skills
+tags: research-advice
+categories: research-advice
 show: true
 ---
 
