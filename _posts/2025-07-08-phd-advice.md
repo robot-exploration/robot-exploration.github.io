@@ -31,7 +31,7 @@ as my own views evolve.
 - [Jean Yang's the Genius Fallacy](https://www.jeanyang.com/posts/genius-fallacy/)
 - [Jean Yang's The Angst Overhead](https://jxyzabc.blogspot.com/2016/03/the-angst-overhead.html)
 - [Jean Yang's Five Things More Important About a Research Project Than Being in Love](https://jxyzabc.blogspot.com/2016/09/five-things-more-important-about.html)
-- [Cal Newport's "The Passion Trap: How the Search for Your Life's Work is Making Your Working Life Miserable."](https://calnewport.com/the-passion-trap-how-the-search-for-your-lifes-work-is-making-your-working-life-miserable/)
+- [Cal Newport's "The Passion Trap"](https://calnewport.com/the-passion-trap-how-the-search-for-your-lifes-work-is-making-your-working-life-miserable/)
 
 # Writing and Communication
 
