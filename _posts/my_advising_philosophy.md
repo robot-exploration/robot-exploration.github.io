@@ -10,9 +10,14 @@ show: false
 
 **What's your advising philosophy?**
 
-I’ve gotten this question a lot since accepting my faculty position, so I wanted
-to write down some initial thoughts. While I’ve put serious thought into this,
-I’m just starting out, and my views will likely evolve over time.
+I’ve gotten this question (and variants thereof) a lot since accepting my
+faculty position, so I wanted to write down some initial thoughts.  I've been
+fortunate to have a number of great mentors with very different styles (and the
+lucky opportunity to work with and observe many more). My beliefs are largely
+taken from what I learned from them, both in terms of what I want to take from
+their styles and what I want to do differently.  I also want to emphasize that
+this is a living document. I expect my views to evolve as I gain more experience
+and learn from my students.
 
 Much of this may not be surprising or controversial - but writing it down helps me
 communicate my expectations clearly and consistently.
@@ -28,10 +33,15 @@ that comes through our lab will leave with the ability to perform world-class
 research.  I think the best way to become a world-class researcher is to try to
 perform world-class research.
 
-You should be working on problems with the potential to really change the world.
-
 Of course, becoming an independent, world-class researcher doesn’t happen
-overnight, but this is the goal to strive for in our lab.
+overnight, but this is the goal to strive for.
+
+**Disclaimer**: I don't have strong feelings that PhD students should
+commit to an academic career or even a research career. The independent
+skills developed during a PhD are valuable in many different careers, and I
+want to support students in whatever path they choose. I myself very seriously
+debated leaving academia during my PhD, and I think that consideration and
+reflection was incredibly valuable.
 
 ## On world-class research
 
@@ -52,30 +62,35 @@ an area can differ substantially.
 The point, is that the goal is to do good, thoughtful work and then clearly
 communicate it to the broader community.
 
-### The magnitude of world-class research problems and major breakthroughs
+### The magnitude of world-class research problems and breakthroughs
 
 I also want to take a little more time to talk about what progress looks like
-for major problems.
+for major problems. Here I consider a "major problem" to be a general question
+or challenge that is both important to society (impactful if solved) and
+technically interesting (i.e., progress will inform our understanding of
+robotics, AI, etc. and not just be a one-off solution to a problem).
 
-Most major "breakthroughs" are less about single discoveries and more about the
+Most "breakthroughs" are less about single discoveries and more about the
 accumulation of incremental results. Often, what gets labeled a “breakthrough”
 is a paper that brings coherence to prior work, introduces a new framing, or
 synthesizes methods across fields.
 
 This is great research, but it's important to remember that real progress often
-looks like slow, thoughtful work chipping away at hard problems. Romanticizing
-breakthroughs can be a mental block; persistent effort matters more.
+looks like slow, thoughtful work chipping away at problems.
+
 
 **Why am I saying this?** It's to emphasize that while we work (at the high level) on
-large, important problems, the actual contributions we make to those problems are often
-more gradual and chipping away at pieces of the problem. This is what good work
-often looks like! It can be easy to get caught up in the romanticized notion of
-breakthroughs and have that become a mental block to working on a problem.
+large, important problems, the actual contributions we make to those problems
+are often more gradual and chipping away at pieces of the problem. This is what
+good work often looks like! It can be easy to get caught up in the romanticized
+notion of breakthroughs and have that become a mental block to working on a
+problem.  Romanticizing breakthroughs can be a mental block; persistent effort
+matters more.
 
 ## Student background
 
-I don't expect a super-specific technical background from my students.  There
-are a lot of different flavors of research that I'm interested in, ranging from
+I don't expect a super-specific technical background from students.  There are a
+lot of different flavors of research that I'm interested in, ranging from
 theoretical and algorithmic (i.e., you can do all of your work with a laptop and
 Python/MATLAB/Julia/etc.) to more experimental and deploying real robots in the
 real world (what is typically called field robotics).
@@ -109,6 +124,12 @@ sounding board and strategic advisor to refine the finished product: someone to
 help connect the dots across ideas, flag potential pitfalls, and push students
 to think deeper or more broadly when needed.
 
+**Disclaimer**: Funding opportunities may influence the direction of research
+in the lab. I hope that students feel like research topics are still entirely
+of their choosing, and my aim is to generally find highly flexible funding
+opportunities that align with general lab interests. However, like all labs,
+funding may have some affect on research.
+
 ## Proposing ideas
 
 From the first day, I expect students to be proposing their own ideas and
@@ -120,15 +141,77 @@ especially at first, but I think it led to a level of individual growth as a
 researcher and independent thinker that would have been hard to achieve
 otherwise.
 
+## What is a good problem?
+
+There's a lot of writing on this that I think is largely in agreement, so I won't
+repeat it all here (but see my [collection of PhD advice]({{site.baseurl}}/blog/2025/phd-advice/))
+for more in depth discussions.
+
+One useful framework (credit to Robert Mahony for sharing this) is that a good
+problem is evaluated in the following context:
+
+- **Impact**: Is this problem important? Will solving it have a meaningful impact on the
+  world? Is it a problem that people care about?
+- **Novelty**: Is this problem new? Does it advance the state of the art and how we think about the problem?
+- **Feasibility**: Is this problem tractable? Can we make meaningful progress on
+  it in a reasonable time frame? Is it too big or too small?
+- **Interest**: Do you care about this problem? Are you excited to work on it?
+  Will you be able to sustain interest in it over the long term?
+- **Resources**: Do you have the resources (time, funding, expertise) to tackle this problem?
+  Are there collaborators or mentors who can help?
+
+The right weighting of these factors depends on the student and circumstances.
+
+E.g., for a first-year student, feasibility and interest may be more important
+than novelty or impact. It can be useful to start with a problem that is good to
+get traction on, even if it is not the most impactful or novel problem (though
+we should be considering these factors as well). The first problem I worked on
+as a PhD student was not particularly impactful, but it gave me a good launching
+point and allowed me to develop my skills and understanding of the field.
+
 ## Mentorship style
 
 On this, I'll speak at a high level. I think there's no one-size-fits-all style
 and what works best is completely dependent on the people. There are a few
 common things that should generalize across all students:
 
-- as students progress, they should take more and more ownership of their research (choosing problems, developing ideas, etc.)
-- I will provide guidance and mentorship, but I expect students to be self-motivated and take the initiative to learn and develop their ideas
-- who we are as people is more important than who we are as researchers (though research is an important and valuable part of society)
+**Student development**: as students progress, they should take more and more ownership of their research (choosing problems, developing ideas, etc.)
+
+**Independence**: I will provide guidance and mentorship, but I expect students to be self-motivated and take the initiative to learn and develop their ideas
+
+**Priorities**: who we are as people is more important than who we are as researchers (though research is an important and valuable part of society). Similarly, the order of priorities is: family (however you define that), health, and then research.
+
+**Level of involvement**: I want to be an involved mentor who is there to help
+students grow, but I also want to give students the space to develop their own
+ideas and approaches. There's a line to walk here, and I expect to communicate
+openly with students about how much guidance they want and need at any given
+time. I do expect to discuss research ideas and approaches at a fairly detailed
+level and be more engaged in the day-to-day of research than more senior
+faculty. Of course, this is all highly dependent on the student and their
+preferences/needs.
+
+**Things I will work on with students**: I will work with students on
+developing their ideas, scoping problems, designing experiments, and writing
+papers. I value communication, and would argue the ability to clearly
+communicate ideas is the most important skill for anyone to develop. I
+plan to work with students on their writing, presentations, and other
+communication skills.
+
+**Expectations for students**: In general, I'll try to set clear
+expectations for students. If expectations are unclear, I want
+students to be comfortable asking for clarification. I will also
+encourage students to set their own expectations for themselves and
+communicate those to me.
+
+**Career development**: I want to help students develop their careers, whether
+that is in academia, industry, or elsewhere. I will support students in
+finding internships, jobs, and other opportunities that align with their
+interests and goals. I will also help students prepare for the job market,
+including reviewing application materials, conducting mock interviews, and
+providing advice on how to navigate the job market. I'm lucky to have
+a number of colleagues who are in academia, industry, startups, and
+a range of other careers. If students are interested in exploring
+different career paths, I will help connect them.
 
 ## Communication
 
@@ -190,7 +273,7 @@ make a meaningful contribution to your field. There’s no fixed number of paper
 or years, but I expect students to graduate with at least a few substantial
 pieces of work that form a coherent narrative.
 
-I see part of my job as helping you prepare for your next step. A PhD develops
+I see part of my job as helping students prepare for their next step. A PhD develops
 deep thinking, problem-solving, and communication skills that are valuable in
 nearly any career path—whether that's academia, industry, startups, or something
 else. I’m here to support you with advice, letters, connections, and guidance as
@@ -201,17 +284,16 @@ you navigate the job market.
 We aim to produce work that others can build on. That means writing clean code,
 documenting experiments, and making reproducible results whenever possible.
 
-I don’t expect perfection—but I do expect students to aim for clarity and
+I don’t expect perfection, but I do expect students to aim for clarity and
 reusability in their code and data handling, especially as projects mature.
 
 ## Final thoughts
 
-Graduate school is an incredible opportunity for growth—as a thinker, a builder,
-and a human being. My goal is to support each student in becoming an
-independent, thoughtful researcher who is prepared for the next chapter,
+Graduate school is an incredible opportunity for growth - as a thinker, a
+doer, and a human being. My goal is to support each student in becoming an
+independent, critical-thinker who is prepared for the next chapter,
 whatever that may be. I care deeply about your success, and I’ll work hard to
 support you. I ask that you do the same—for yourself, and for the lab community.
-
 
 ## Other resources
 

@@ -26,17 +26,31 @@ about why that is.
 
 **Last updated:** July 8, 2025
 
+# Most Recommended Reads
+
+Here are the articles that I would most strongly recommend to current/aspiring PhD students (of course biased by my own beliefs):
+
+- [Michael Nielsen's Principles of Effective Research](https://michaelnielsen.org/blog/principles-of-effective-research/)
+- [Jean Yang's the Genius Fallacy](https://www.jeanyang.com/posts/genius-fallacy/)
+- [Jean Yang's Five Things More Important About a Research Project Than Being in Love](https://jxyzabc.blogspot.com/2016/09/five-things-more-important-about.html)
+- [Managing Your Advisor](https://greatresearch.org/2013/08/14/managing-your-advisor/)
+- [So Long and Thanks for the PhD](https://www.cs.unc.edu/~azuma/hitch4.html)
+
+Of course, everything on this page is worth reading. If you're time-constrained, I would recommend starting with the above.
+
 # Stories of a PhD
 
 People who have written about their PhD experiences (benefit of hindsight):
 
-- [Philip Guo's The PhD Grind]({{site.baseurl}}/assets/pdf/philipguo-phd-grind.pdf)
+- [Philip Guo's The PhD Grind]({{site.baseurl}}/assets/pdf/philipguo-phd-grind.pdf) (this is a .pdf)
 
 # Meta-PhD and Broad-PhD Advice
 
+- [Andrej Karpathy's PhD Survival Guide](https://karpathy.github.io/2016/09/07/phd/)
+- [Michael Nielsen's Principles of Effective Research](https://michaelnielsen.org/blog/principles-of-effective-research/)
 - [Why Get a PhD?](https://greatresearch.org/2013/08/23/why-get-a-ph-d/)
+- [So Long and Thanks for the PhD](https://www.cs.unc.edu/~azuma/hitch4.html)
 - [Managing Your Advisor](https://greatresearch.org/2013/08/14/managing-your-advisor/)
-- [Philip Guo's tips for PhD students]({{site.baseurl}}/blog/2025/philip-guo-phd-tips/)
 - [Cultivating Your Research Taste](https://greatresearch.org/2013/09/13/cultivating-your-research-taste/)
 - [The classic Richard Hamming "You and Your Research" talk](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 - [Research Patterns](https://greatresearch.org/2013/09/20/research-patterns/)
@@ -65,3 +79,4 @@ This shows up **a lot** in the advice above, but these are more specific discuss
 # Interested in an Academic Career?
 
 - [Daniel Seita's Experience with the Faculty Job Market](https://danieltakeshi.github.io/2023/06/15/faculty-application)
+- [Sylvia Herbert's Advice for the Academic Job Market](https://sylviaherbert.com/faculty-application-advice/)
