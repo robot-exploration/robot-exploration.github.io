@@ -332,7 +332,7 @@ students to be self-directed, take initiative, and actively drive their own
 learning and progress. The whole point of a PhD is to learn how to do
 independent research.
 
-- **Whole-person support**: PhD students are people. I care about your
+**Whole-person support**: PhD students are people. I care about your
 well-being, not just your productivity. If you're struggling - with work,
 health, family, or motivation - I want you to be able to bring that up. We can
 adjust, recalibrate, and figure out how to move forward in a sustainable way.
