@@ -221,6 +221,11 @@ This doesn't have to be a pristine piece of writing, just communicate the ideas
 clearly and give us a shared understanding of what you want to do. We can
 iterate on it together.
 
+If there are gaps you are having trouble filling in the proposal, we can also
+try to close them together. A lot of the proposal writing process is about
+critically thinking about the problem and how you want to approach it, to force
+you to face what is currently unclear and to structure your thoughts.
+
 ## What is a good problem?
 
 There’s no single formula for what makes a good research problem - but there are
