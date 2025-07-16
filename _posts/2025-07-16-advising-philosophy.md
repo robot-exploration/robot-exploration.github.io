@@ -364,8 +364,7 @@ general questions about research.
 
 Communication shouldn’t be limited to scheduled meetings. I encourage you to
 reach out via Slack or email when you’re stuck, excited about a new idea, or
-unsure how to proceed. You don’t need a polished result to start a conversation
-- often the best discussions come from messy, unfinished thoughts.
+unsure how to proceed. You don’t need a polished result to start a conversation - often the best discussions come from messy, unfinished thoughts.
 
 I try to be responsive and available, especially during crunch periods. If
 something is urgent or time-sensitive (e.g., for a deadline or blocking issue),
