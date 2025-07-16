@@ -25,8 +25,7 @@ Of course, this is not final. My views will evolve (as one would hope).
 But I believe it's useful to explicitly write things down so you can
 get a sense of what to expect from me, and what I’ll expect from you.
 
-If there are things that you think are missing, or if you have any questions,
-please feel free to reach out.
+**Last updated:** July 16, 2025 - right before starting my faculty position.
 
 # Advising Philosophy and Expectation Setting
 
