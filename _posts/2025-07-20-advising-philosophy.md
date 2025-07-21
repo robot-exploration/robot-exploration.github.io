@@ -5,7 +5,7 @@ date: July 20, 2025
 description: A collection of thoughts and expectations for students interested in my lab.
 tags: research
 categories: research skills
-show: false
+show: true
 ---
 
 This is a mixture of:
