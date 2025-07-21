@@ -52,6 +52,7 @@ People who have written about their PhD experiences (benefit of hindsight):
 - [So Long and Thanks for the PhD](https://www.cs.unc.edu/~azuma/hitch4.html)
 - [Managing Your Advisor](https://greatresearch.org/2013/08/14/managing-your-advisor/)
 - [Cultivating Your Research Taste](https://greatresearch.org/2013/09/13/cultivating-your-research-taste/)
+- [Graduate School: Keys to Success](https://www.youtube.com/watch?v=fqPSnjewkuA) (video)
 - [The classic Richard Hamming "You and Your Research" talk](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 - [Research Patterns](https://greatresearch.org/2013/09/20/research-patterns/)
 - [Alex Tamkin's tips for researchers](https://www.alextamkin.com/essays/tips-for-new-researchers)

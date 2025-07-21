@@ -5,28 +5,52 @@ date: July 16, 2025
 description: My thoughts on advising PhD students.
 tags: research
 categories: research skills
-show: true
+show: false
 ---
 
-This is a philosophy for my research group. While it’s primarily written for
-students interested in joining the lab, I hope it’s also useful as a reference
-point for those evaluating different advising styles more broadly.
+This is a mixture of:
+- my personal philosophy on a PhD and advisor/advisee relationships;
+- my expectations for students in my lab;
+- my expectations for myself as an advisor; and
+- light discussion of structures and systems in the lab that support the above points.
+
+While this is primarily written for students interested in joining the lab, I
+hope it’s also useful as a reference point for those evaluating different
+advising styles more broadly.
 
 > **What's your advising philosophy?**
 
-Ah, the classic question that seems to keep popping up around me.
+Ah, the classic question that seems to keep popping up.
 
 I’ve been fortunate to learn from a range of mentors with very different
-approaches - some deeply hands-on, others highly independent. Each taught me
-something: what I want to emulate, and what I want to do differently. This
-document reflects the values and practices I hope to bring into my own advising.
+approaches - some deeply hands-on, other less so; some focused on technical
+skills, others on big-picture thinking; some who pushed me hard, and others who
+gave me space to find my own way.  Across these experiences, I've tried to pull
+out what I thought worked well and what didn't. As such, this document reflects
+the values and practices I hope to bring into my own advising, based largely on
+my own experiences.
 
-Of course, this is not final. My views will evolve (as one would hope).
-But I believe it's useful to explicitly write things down so you can
-get a sense of what to expect from me, and what I’ll expect from you.
+- [Advising Philosophy and Expectation Setting](#advising-philosophy-and-expectation-setting)
+  - [What is the point of a PhD?](#what-is-the-point-of-a-phd)
+  - [On world-class research](#on-world-class-research)
+    - [The magnitude of world-class problems and the myth of breakthroughs](#the-magnitude-of-world-class-problems-and-the-myth-of-breakthroughs)
+  - [Student background and technical development](#student-background-and-technical-development)
+  - [Independence and choosing research topics](#independence-and-choosing-research-topics)
+    - [Funding and research direction](#funding-and-research-direction)
+  - [Proposing ideas](#proposing-ideas)
+    - [Proposal sketches](#proposal-sketches)
+  - [What is a good problem?](#what-is-a-good-problem)
+  - [What does progress look like?](#what-does-progress-look-like)
+  - [Expectations by stage](#expectations-by-stage)
+  - [Mentorship style](#mentorship-style)
+  - [Communication and Feedback](#communication-and-feedback)
+    - [Feedback](#feedback)
+  - [Authorship and collaboration](#authorship-and-collaboration)
+  - [Time management and work-life balance](#time-management-and-work-life-balance)
+  - [Feedback and iteration](#feedback-and-iteration)
+  - [Reproducibility and research artifacts](#reproducibility-and-research-artifacts)
+  - [Final thoughts](#final-thoughts)
 
-If there are things that you think are missing, or if you have any questions,
-please feel free to reach out.
 
 # Advising Philosophy and Expectation Setting
 
