@@ -9,9 +9,14 @@ nav_order: 1
 
 ## How to reach out
 
-<span style="color:red;"> I am actively recruiting PhD students for the upcoming year </span>
 
-See below for how to reach out if you are interested in working with me. I
+<div style="border: 1px solid #ccc; border-left: 4px solid red; padding: 1em; background-color: #f9f9f9; margin: 1em 0;">
+  <span style="color:red;">
+    We are actively recruiting PhD students for the upcoming year.
+  </span>
+</div>
+
+See below for how to reach out if you are interested in working with REL. I
 welcome inquiries from prospective PhD students, postdoctoral researchers, and
 University of Michigan undergraduate students.
 
@@ -21,49 +26,24 @@ email should follow the format
 For example, if you are a prospective PhD student, the subject line should be
 `"[Important] Prospective UMich PhD Student"`.
 
-Send your email to: apapalia [at ] umich [dot ] edu
+Send your email to: apapalia [at] umich [dot] edu
 
 ## Prospective PhD Students
 
-If you are interested in applying to PhDs, read the information below and then
-reach out with a short email with your CV and a brief paragraph on what you are
-interested in working on and why this interests you (any relevant experience is
-useful to highlight).
+If you are interested in a PhD in this lab, reach out with a short email with
+your CV and a brief 1-2 paragraphs on what you are interested in working on and
+why this lab interests you (any relevant experience is useful to highlight).
 
-I am looking for students who are excited to advance the state of the art in
+We are looking for students who are excited to advance the state of the art in
 robotics and to tackle difficult fundamental problems in localization,
 perception, state estimation, and autonomous exploration and environmental
 monitoring of the environment.
 
-<!--
-A short (and incomplete) list of topics that I am excited about includes:
-- **Localization and navigation (SLAM)** -- specifically, I am interested in
-  long-term, low-cost navigation. We want to build smarter robotic systems that
-  intelligently fuse information from a combination of sensors in ways that are
-  more robust and reliable than existing systems.
-- **Long-term autonomy in challenging environments** -- developing
-  algorithms that allow robots to operate independently for long periods of time
-  in difficult conditions.
-- **Field robotics** -- developing systems that can operate in challenging and
-  remote environments, with a particular focus on underwater systems.
-- **Adaptive sampling and exploration** -- developing algorithms that allow robots
-  to make intelligent decisions about where to go and what to measure in order
-  to maximize the information gained (with a focus on environmental monitoring).
-- **Merging machine learning and model-based robotic systems** -- finding
-  effective ways to combine data-driven and model-based approaches to leverage
-  the strengths of both.
-- **Algorithms with provable performance guarantees** -- building systems
-  that are robust to noise, uncertainty, outliers, and other practical challenges.
-- **Learned sensor models** -- developing algorithms that can learn the
-  characteristics of sensors and use this information to improve the performance
-  of robotic systems.
-
-The common thread in all of these topics is that advances in these directions
-will lead to serious improvements in what robots can do in the wild, allowing
-for people to apply robotics to solve important problems in the world. My
-underlying motivation is developing robots that allow us to better understand
-the natural world, but the technologies we work on are fundamental tools in robotics
-and are relevant anytime we want to deploy robots in the real world. -->
+I would like to refer you to my [Lab
+Philosophy](https://alanpapalia.github.io/blog/2025/advising-philosophy/) as
+something that is good to read before reaching out. It's helpful if you can
+indicate that you've read this in your email (along with any thoughts or
+questions you may have).
 
 ## Current University of Michigan Undergraduates
 
@@ -78,5 +58,7 @@ research* in the coming summer.
 
 ## Postdoctoral Researchers
 
-Send me an email with your CV, three representative publications, and a
-description of what you are interested in working on.
+While we are not currently looking for postdoctoral researchers, if you feel you
+are a particularly good fit for the lab, please reach out with your CV, three
+representative publications, and a brief description of your research interests
+and how they align with the lab's work.

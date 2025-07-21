@@ -1,9 +1,7 @@
 ---
-layout: cv
-permalink: /cv/
-title: CV
-nav: true
+layout: page
+permalink: /people/
+title: People
+nav: false
 nav_order: 4
-cv_pdf: cv.pdf
-last_updated: January 2024
 ---
